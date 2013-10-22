@@ -22,7 +22,7 @@
 #                    (Note that this is unable to delete the dumbask
 #                    executable if the configuration is absent.)
 
-MAKEFILE = Makefile.rdy
+MAKEFILE = Makefile
 
 .PHONY: all install uninstall clean veryclean distclean config config-if-necessary make-outdirs
 
