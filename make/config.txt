@@ -1,0 +1,4 @@
+include make/unix.inc
+ALL_TARGETS := core core-headers
+ALL_TARGETS += allegro allegro-headers
+PREFIX := /opt/gcw0-toolchain/usr/mipsel-gcw0-linux-uclibc/sysroot/usr
